@@ -1,0 +1,65 @@
+body{
+    background-color: #DEE1E6;
+}
+
+
+.logo img {
+    width: 40px;
+    margin-left: 86px;
+    height: 50px;
+}
+.logo h2{
+    margin-left: 20px;
+}
+.navlink{
+    margin-right: 130px;
+}
+.img{
+    color: white;
+    width: 20px;
+    height: 20px;
+
+}
+.player img {
+    width: 50px;
+    height: 53px;
+    margin-right: 20px;
+}
+.players_name {
+    padding-bottom: 34px;
+}
+.blog img {
+    width: 168px;
+    height: 156px;
+}
+.blog_name{
+    width: 575px;
+    margin-left: 25px;
+}
+
+.course img {
+    width: 330px;
+    height: 185px;
+}
+.icon{
+    color: goldenrod;
+}
+.unicon{
+    color: rgba(0, 0, 0, 0.212);
+}
+.watch{
+    color: gray
+}
+.rattings {
+    background-color: rgba(221, 202, 202, 0.212);
+    width: 100px;
+    height: 34px;
+    border-radius: 20px;
+    padding: 3px 5px;
+}
+.icon2{
+    margin-right: 108px;
+}
+.watch0{
+    margin-right:5px;
+}
